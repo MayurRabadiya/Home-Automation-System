@@ -15,3 +15,23 @@ The objective of our Smart Module is to provide a comprehensive solution for con
 4. Smartphone: A smartphone app publishes MQTT messages that the ESP8266 module subscribes to. These messages are communicated to the Cypress chip through I2C, enabling the system to control the relays based on the received commands.
 
 This project demonstrates the integration of various modern technologies to create a versatile and user-friendly home automation system.
+
+## Images
+Touch pad top side           |  Touch pad bottom side
+:-------------------------:|:-------------------------:
+![](Pictures/touch_4_1_top.png)  |  ![](Pictures/touch_4_1_bottom.png)
+
+Power base top side           |  Power base bottom side
+:-------------------------:|:-------------------------:
+![](Pictures/power_4_1_top.png)  |  ![](Pictures/power_4_1_bottom.png)
+
+Front Cover      
+| :-------------------------:|
+| ![](Pictures/cover.png)  |
+
+Front Cover      
+| :-------------------------:|
+| ![](Pictures/Touch Panel.png)  |
+
+![Demo](Pictures/walldemo.gif)
+
