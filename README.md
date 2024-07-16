@@ -29,9 +29,5 @@ Front Cover
 | :-------------------------:|
 | ![](Pictures/cover.png)  |
 
-Front Cover      
-| :-------------------------:|
-| ![](Pictures/Touch Panel.png)  |
-
 ![Demo](Pictures/walldemo.gif)
 
